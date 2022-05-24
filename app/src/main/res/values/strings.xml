@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrackerApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyBh-G8bIDZAZo3cDYnYvDplz5m6R2qn5Ns</string>
+</resources>
